@@ -1,0 +1,61 @@
+{
+    "diagnosis_characteristics": [
+        {
+            "primary_cancer_condition": "Prostate Cancer",
+            "diagnosis_date": "03-12-1958",
+            "histology": [
+                "Prostatic Hyperplasia with Focal Nodular Changes",
+                "Adenocarcinoma",
+                "Gleason 7 (3+4) adenocarcinoma",
+                "Gleason 7 (3+4) prostate adenocarcinoma",
+                "Gleason 3+4=7",
+                "Gleason score 7 (3+4)",
+                "pT2 N0",
+                "Gleason 7 (3+4)",
+                "Gleason 7"
+            ],
+            "stage": {
+                "T": "T2",
+                "N": "N0",
+                "M": "M0",
+                "group_stage": "Stage II"
+            }
+        }
+    ],
+    "cancer_related_medications": [
+        {
+            "medication_name": "fluoroquinolone",
+            "start_date": "03-24-2025",
+            "end_date": "04-24-2025",
+            "intent": [
+                "Prophylactic antibiotics to minimize infectious complications"
+            ]
+        },
+        {
+            "medication_name": "Androgen Deprivation Therapy (ADT)",
+            "start_date": null,
+            "end_date": null,
+            "intent": [
+                "Short-term androgen deprivation for intermediate-risk disease to enhance the effectiveness of radiation"
+            ]
+        },
+        {
+            "medication_name": "PDE5 inhibitors",
+            "start_date": "07-30-2025",
+            "end_date": null,
+            "intent": [
+                "Erectile function rehabilitation",
+                "To aid in better sexual function"
+            ]
+        },
+        {
+            "medication_name": "PDE5 inhibitor",
+            "start_date": "06-15-2025",
+            "end_date": null,
+            "intent": [
+                "Penile rehabilitation to encourage nerve recovery and blood flow",
+                "To maximize continence and erectile recovery"
+            ]
+        }
+    ]
+}

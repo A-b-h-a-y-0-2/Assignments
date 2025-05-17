@@ -1,0 +1,300 @@
+[
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Invasive ductal carcinoma"
+        ],
+        "stage": {
+          "T": null,
+          "N": null,
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Prostate-Specific Antigen (PSA)",
+        "start_date": "03-01-2025",
+        "end_date": null,
+        "intent": "Assess for possible prostate abnormalities"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Benign prostatic hyperplasia with focal nodular changes",
+          "Low-grade prostatitis",
+          "Prostate Cancer"
+        ],
+        "stage": {
+          "T": null,
+          "N": null,
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": null,
+        "stage": {
+          "T": null,
+          "N": null,
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Fluoroquinolone",
+        "start_date": "03-24-2025",
+        "end_date": "04-24-2025",
+        "intent": "Prophylactic antibiotics to minimize infectious complications"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "Not specified",
+          "N": "Not specified",
+          "M": "Not specified",
+          "group_stage": "Not specified"
+        }
+      }
+    ],
+    "cancer_related_medications": []
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": null,
+          "N": null,
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Gleason 7 (3+4) prostate adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2",
+          "N": "N0",
+          "M": "M0",
+          "group_stage": "Stage T2 N0 M0"
+        }
+      }
+    ],
+    "cancer_related_medications": []
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": "Not specified",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2",
+          "N": "N0",
+          "M": "M0",
+          "group_stage": "Stage T2N0M0"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Androgen Deprivation Therapy (ADT)",
+        "start_date": "Not specified",
+        "end_date": "4-6 months",
+        "intent": "Short-term androgen deprivation (4\u20136 months) is sometimes added for intermediate-risk disease to enhance the effectiveness of radiation, though it\u2019s not universally required."
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": null,
+        "stage": null
+      }
+    ],
+    "cancer_related_medications": null
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": "05-15-2025",
+        "histology": "Localized prostate cancer, Gleason 3+4=7",
+        "stage": {
+          "T": "T2",
+          "N": "N0",
+          "M": "M0",
+          "group_stage": "Not specified"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": null,
+    "cancer_related_medications": null
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": "05-22-2025",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2",
+          "N": "N0",
+          "M": "M0",
+          "group_stage": "Stage I"
+        }
+      }
+    ],
+    "cancer_related_medications": []
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": "04-14-2023",
+        "histology": [
+          "pT2 N0"
+        ],
+        "stage": {
+          "T": "2",
+          "N": "0",
+          "M": "0",
+          "group_stage": "Stage I"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "PDE5 inhibitors",
+        "start_date": "06-12-2025",
+        "end_date": null,
+        "intent": "Rehabilitation for erectile function"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": null,
+        "stage": null
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "PDE5 inhibitor",
+        "start_date": "06-15-2025",
+        "end_date": null,
+        "intent": "penile rehabilitation"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Gleason 7"
+        ],
+        "stage": null
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "PDE5 inhibitors",
+        "start_date": null,
+        "end_date": null,
+        "intent": "To aid in better sexual function"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Prostate Cancer",
+        "diagnosis_date": null,
+        "histology": null,
+        "stage": null
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "PDE5 inhibitor",
+        "start_date": null,
+        "end_date": null,
+        "intent": "To maximize continence and erectile recovery"
+      }
+    ]
+  }
+]

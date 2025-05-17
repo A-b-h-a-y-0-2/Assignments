@@ -1,0 +1,390 @@
+[
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": null,
+        "histology": null,
+        "stage": {
+          "T": null,
+          "N": null,
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": null,
+        "diagnosis_date": null,
+        "histology": null,
+        "stage": {
+          "T": null,
+          "N": null,
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Invasive adenocarcinoma"
+        ],
+        "stage": {
+          "T": null,
+          "N": null,
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": "12-22-2019",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": null,
+          "N": "N1",
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "N/A",
+          "N": "N1",
+          "M": "N/A",
+          "group_stage": "Stage IIB or IIIA"
+        }
+      }
+    ],
+    "cancer_related_medications": []
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": "01-03-2020",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2",
+          "N": "N1",
+          "M": "M0",
+          "group_stage": "Stage IIB/IIIA"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": null,
+          "N": "N1",
+          "M": null,
+          "group_stage": null
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": "N/A",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2",
+          "N": "N1",
+          "M": "N/A",
+          "group_stage": "Stage IIA"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Cisplatin",
+        "start_date": "N/A",
+        "end_date": "N/A",
+        "intent": "Adjuvant chemotherapy"
+      },
+      {
+        "medication_name": "Pemetrexed",
+        "start_date": "N/A",
+        "end_date": "N/A",
+        "intent": "Adjuvant chemotherapy"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": "01-29-2020",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2",
+          "N": "N1",
+          "M": "M0",
+          "group_stage": "Stage IIB"
+        }
+      }
+    ],
+    "cancer_related_medications": []
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": null,
+        "diagnosis_date": null,
+        "histology": null,
+        "stage": null
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": null,
+        "start_date": null,
+        "end_date": null,
+        "intent": null
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": null,
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2a",
+          "N": "N1",
+          "M": "M0",
+          "group_stage": "Stage IIB"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Adjuvant chemotherapy",
+        "start_date": null,
+        "end_date": null,
+        "intent": "Improving overall survival"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": "01/29/2020",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "pT2a",
+          "N": "pN1",
+          "M": "M0",
+          "group_stage": "Stage IIB"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Cisplatin",
+        "start_date": "02-10-2020",
+        "end_date": null,
+        "intent": "Adjuvant chemotherapy"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": "09/15/1955",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T2a",
+          "N": "N1",
+          "M": "M0",
+          "group_stage": "Stage IIB"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Cisplatin",
+        "start_date": "02-25-2020",
+        "end_date": "",
+        "intent": "Adjuvant therapy to reduce recurrence risk"
+      },
+      {
+        "medication_name": "Pemetrexed",
+        "start_date": "02-25-2020",
+        "end_date": "",
+        "intent": "Adjuvant therapy to reduce recurrence risk"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": null,
+    "cancer_related_medications": [
+      {
+        "medication_name": "Cisplatin",
+        "start_date": "03-10-2020",
+        "end_date": null,
+        "intent": "Neoadjuvant therapy to shrink tumor"
+      },
+      {
+        "medication_name": "Pemetrexed",
+        "start_date": "03-10-2020",
+        "end_date": null,
+        "intent": "Neoadjuvant therapy to shrink tumor"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [
+      {
+        "primary_cancer_condition": "Lung Cancer",
+        "diagnosis_date": "",
+        "histology": [
+          "Adenocarcinoma"
+        ],
+        "stage": {
+          "T": "T1",
+          "N": "N0",
+          "M": "M0",
+          "group_stage": "Stage I"
+        }
+      }
+    ],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Pemetrexed",
+        "start_date": "04-21-2020",
+        "end_date": "",
+        "intent": "Adjuvant therapy to shrink tumor"
+      },
+      {
+        "medication_name": "Cisplatin",
+        "start_date": "04-21-2020",
+        "end_date": "",
+        "intent": "Adjuvant therapy to shrink tumor"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [],
+    "cancer_related_medications": [
+      {
+        "medication_name": "Pemetrexed",
+        "start_date": "05-12-2020",
+        "end_date": "",
+        "intent": "Adjuvant therapy to shrink tumor"
+      },
+      {
+        "medication_name": "Cisplatin",
+        "start_date": "05-12-2020",
+        "end_date": "",
+        "intent": "Adjuvant therapy to shrink tumor"
+      }
+    ]
+  },
+  {
+    "diagnosis_characteristics": [],
+    "cancer_related_medications": [
+      {
+        "medication_name": "pemetrexed",
+        "start_date": null,
+        "end_date": "06-15-2020",
+        "intent": "Guidelines for vitamin B12 and folic acid supplements"
+      }
+    ]
+  }
+]
